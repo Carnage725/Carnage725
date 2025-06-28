@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Carnage725
+Self-taught software developer. 
+I like to learn by doing!
 
-<!--
-**Carnage725/Carnage725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Currently Learning
+- Python with Beginner DSA (on CodeChef)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
