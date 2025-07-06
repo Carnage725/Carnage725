@@ -11,5 +11,3 @@ I like to learn by doing!
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-### More
-- [Touch Typing](https://www.edclub.com)
