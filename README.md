@@ -3,7 +3,7 @@ Self-taught software developer.
 I like to learn by doing!
 
 ### Skills in Progress:
-- [Python with Beginner DSA](https://www.codechef.com/roadmap/python-dsa) (24/6/25 to ...)
+- [Python with Beginner DSA](https://www.codechef.com/roadmap/python-dsa)
 
 ### Tech Stack
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
