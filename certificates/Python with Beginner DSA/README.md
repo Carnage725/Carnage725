@@ -1,2 +1,1 @@
-# This folder contains all my certificates (and more...)
-1. Learn Python Programming
+this folder contains my certificates from Python with Beginner DSA course
