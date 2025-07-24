@@ -2,7 +2,7 @@
 Self-taught software developer. 
 I like to learn by doing!
 
-### Skills in Progress:
+### Skills (with Certifications)
 - [Python with Beginner DSA](https://www.codechef.com/roadmap/python-dsa)
 
 ### Tech Stack
@@ -11,3 +11,5 @@ I like to learn by doing!
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
+### Skills in Progress:
+- [Python Django: Ultimate Beginners Course - 2025](https://www.udemy.com/course/python-django-ultimate-beginners-course-2022/?couponCode=MT240725CTRL)
