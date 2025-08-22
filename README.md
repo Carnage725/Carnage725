@@ -11,6 +11,3 @@ I like to learn by doing!
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
-
-### Skills in Progress:
-- [Python Django: Ultimate Beginners Course - 2025](https://www.udemy.com/course/python-django-ultimate-beginners-course-2022/?couponCode=MT240725CTRL)
