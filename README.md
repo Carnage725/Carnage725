@@ -45,7 +45,7 @@ Self-taught software developer. I like to learn by doing!
 ### Stats
 
 <p align="left">
-  ![Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carnage725&theme=radical)
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carnage725&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p>
