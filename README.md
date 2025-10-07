@@ -44,9 +44,9 @@ Self-taught software developer. I like to learn by doing!
 
 ### Stats
 
-<p align="left">
+<!-- <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carnage725&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carnage725&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
