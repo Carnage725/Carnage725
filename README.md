@@ -15,9 +15,6 @@ Self-taught software developer. I like to learn by doing!
   <a href="https://www.linkedin.com/in/chinmay-talnikar-335752229">
     <img src="https://img.shields.io/badge/LinkedIn-chinmay--talnikar--335752229-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Carnage725">
-    <img src="https://img.shields.io/badge/GitHub-Carnage725-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
