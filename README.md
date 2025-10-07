@@ -62,6 +62,7 @@ Self-taught software developer. I like to learn by doing!
 ![LeetCode Stats](https://leetcard.jacoblin.cool/chinutalnikar725?theme=radical)
 
 ---
+<br>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Carnage725&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
