@@ -1,0 +1,48 @@
+name: Total Stars Badge
+
+on:
+  schedule:
+    - cron: "30 21 * * *"   # daily 21:30 UTC (~03:00 IST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute total stars
+        env:
+          USERNAME: Carnage725
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          total=0
+          page=1
+          while : ; do
+            data=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+              "https://api.github.com/users/$USERNAME/repos?per_page=100&type=owner&page=$page")
+            count=$(echo "$data" | jq 'length')
+            [ "$count" -eq 0 ] && break
+            stars=$(echo "$data" | jq '[.[].stargazers_count] | add // 0')
+            total=$(( total + stars ))
+            page=$(( page + 1 ))
+          done
+          echo "TOTAL_STARS=$total" >> $GITHUB_ENV
+
+      - name: Generate badge (download SVG)
+        run: |
+          mkdir -p assets
+          url="https://img.shields.io/badge/Stars-${TOTAL_STARS}-yellow?style=flat&logo=github"
+          curl -sL "$url" -o assets/stars.svg
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/stars.svg
+          if git commit -m "chore: update total stars badge (${TOTAL_STARS})"; then
+            git push
+          fi
