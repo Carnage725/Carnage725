@@ -31,24 +31,11 @@ Self-taught software developer. I like to learn by doing!
   </a>
 </p>
 
-
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-mobile-61DAFB?style=flat&logo=react&logoColor=000000" alt="React Native" />
-</p>
-
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,docker,git,vscode&theme=dark&perline=8" alt="Databases and Tools" />
   </a>
 </p>
-
-
-<p>
-  <img src="https://img.shields.io/badge/Pydantic-data%20validation-0f7bff?style=flat&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Alembic-migrations-3f3f3f?style=flat&logo=alembic&logoColor=white" alt="Alembic" />
-</p>
-
 
 <p>
   <a href="https://skillicons.dev">
