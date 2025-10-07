@@ -17,6 +17,8 @@ Self-taught software developer. I like to learn by doing!
   </a>
 </p>
 
+![Total Stars](./assets/stars.svg)
+
 ---
 
 ### Tech Stack
@@ -47,10 +49,6 @@ Self-taught software developer. I like to learn by doing!
 <!-- <p align="left">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carnage725&theme=radical" alt="GitHub Stats" />
 </p> -->
-
-<p>
-  ![Total Stars](./assets/stars.svg)
-</p>
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carnage725&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
