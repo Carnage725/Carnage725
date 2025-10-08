@@ -61,7 +61,10 @@ Self-taught software developer. I like to learn by doing!
 ---
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/chinutalnikar725?theme=radical)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/chinutalnikar725?theme=radical) -->
+
+<img src="https://leetcard.jacoblin.cool/chinutalnikar725?theme=dark&font=Ubuntu&ext=heatmap&border=2&border_radius=10" alt="LeetCode Stats" style="border: 3px solid #ff006e; border-radius: 15px; box-shadow: 0 0 20px rgba(236, 0, 140, 0.5);" />
+
 
 ---
 <!-- <br>
