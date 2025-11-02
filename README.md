@@ -50,20 +50,18 @@ Self-taught software developer. I like to learn by doing!
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carnage725&theme=radical" alt="GitHub Stats" />
 </p> -->
 
-<p>
+<!-- <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carnage725&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Carnage725&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
----
-<br>
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/chinutalnikar725?theme=radical) -->
 
-<img src="https://leetcard.jacoblin.cool/chinutalnikar725?theme=dark&font=Ubuntu&ext=heatmap&border=2&border_radius=10" alt="LeetCode Stats" style="border: 3px solid #ff006e; border-radius: 15px; box-shadow: 0 0 20px rgba(236, 0, 140, 0.5);" />
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 
 ---
@@ -74,6 +72,7 @@ Self-taught software developer. I like to learn by doing!
 --- -->
 <br>
 
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+<img src="https://leetcard.jacoblin.cool/chinutalnikar725?theme=dark&font=Ubuntu&ext=heatmap&border=2&border_radius=10" alt="LeetCode Stats" style="border: 3px solid #ff006e; border-radius: 15px; box-shadow: 0 0 20px rgba(236, 0, 140, 0.5);" />
+
 
 ---
