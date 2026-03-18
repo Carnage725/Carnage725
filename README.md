@@ -26,7 +26,7 @@ Self-taught software developer. I like to learn by doing!
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,react,django,javascript,html,css&theme=dark&perline=7" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript&theme=dark&perline=7" alt="Languages and Frameworks" />
   </a>
 </p>
 
@@ -70,9 +70,8 @@ Self-taught software developer. I like to learn by doing!
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Carnage725&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --- -->
-<br>
+<!-- <br>
 
 <img src="https://leetcard.jacoblin.cool/chinutalnikar725?theme=dark&font=Ubuntu&ext=heatmap&border=2&border_radius=10" alt="LeetCode Stats" style="border: 3px solid #ff006e; border-radius: 15px; box-shadow: 0 0 20px rgba(236, 0, 140, 0.5);" />
+ -->
 
-
----
