@@ -8,14 +8,14 @@ Self-taught software developer. I like to learn by doing!
 </p>
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://x.com/carnage725">
     <img src="https://img.shields.io/badge/X-@carnage725-000000?style=flat&logo=X&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/chinmay-talnikar-335752229">
     <img src="https://img.shields.io/badge/LinkedIn-chinmay--talnikar--335752229-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</p> -->
 
 ![Total Stars](./assets/stars.svg)
 
