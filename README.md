@@ -1,6 +1,6 @@
 # Hi, I'm Chinmay Talnikar
 
-Self-taught software developer. I like to learn by doing!
+the kind of person who keeps bumping into good problems and can actually fix them.
 
 
 <p align="left">
