@@ -21,29 +21,6 @@ the kind of person who keeps bumping into good problems and can actually fix the
 
 ---
 
-### Tech Stack
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript&theme=dark&perline=7" alt="Languages and Frameworks" />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,vscode&theme=dark&perline=8" alt="Databases and Tools" />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,apple,windows&theme=dark&perline=6" alt="Operating Systems" />
-  </a>
-</p>
-
----
-
 ### Stats
 
 <!-- <p align="left">
